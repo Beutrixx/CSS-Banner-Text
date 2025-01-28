@@ -1,0 +1,40 @@
+
+#top {
+    text-align: center;
+    background-color: rgb(172, 119, 4);
+    padding: 25px;
+
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  ul {
+    float: center;
+  }
+  
+  ul a {
+    color: rgb(7, 138, 66);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+.main {
+    background-color: rgb(255, 226, 183);
+    padding: 10px;
+    margin: 0px;
+}
+
+p{
+    color:brown
+}
+#last{
+    text-align: center;
+    color: black;
+}
